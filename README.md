@@ -22,7 +22,7 @@ enabling Amazon to reduce waste, improve recovery efficiency, and accelerate the
 
 Open the deployed prototype here:
 
-https://amazonsecondlife.netlify.app/
+(https://amazon-secondlife.netlify.app/)
 
 ---
 <img width="1918" height="977" alt="Screenshot 2026-06-15 233307" src="https://github.com/user-attachments/assets/ea547403-c15a-4857-b036-02bec4906e26" />
