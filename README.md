@@ -27,9 +27,15 @@ Open the deployed prototype here:
 ---
 <img width="1918" height="977" alt="Screenshot 2026-06-15 233307" src="https://github.com/user-attachments/assets/ea547403-c15a-4857-b036-02bec4906e26" />
 
-Demo video :
+# 🎥 Live Demo Video
 
+Experience Amazon Second Life in action.
 
+This demonstration presents the complete workflow from return initiation to AI-driven assessment, certification, sustainable recovery routing, and marketplace listing.
+
+The prototype highlights how intelligent recovery systems can transform product returns into trusted second-life opportunities.
+
+▶️ Watch Demo:
 
 https://github.com/user-attachments/assets/f32bded0-856c-4e47-afb4-3e1abf2fdd8e
 
@@ -318,7 +324,7 @@ Benefits include:
 
 Deployment URL:
 
-https://amazonsecondlife.netlify.app/
+(https://amazon-secondlife.netlify.app/)
 
 ---
 
